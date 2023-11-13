@@ -1,4 +1,4 @@
-### EX NO : 06
+### EX NO : 08
 # <p align="center">Program to Identify Verbs and Provide Synonyms using Natural Language Processing</p>
 
 ## AIM :
